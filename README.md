@@ -37,4 +37,7 @@ If you encounter any issues with the project, you can try the following:
 Check browser compatibility: Make sure your browser is compatible with the project.
 Grant camera and microphone access: Ensure that the browser has access to the camera and microphone.
 Check for conflicts with other scripts: If you're running other scripts or plugins that use the camera or microphone, try disabling them to see if it resolves the issue.
+
+
+
 Made by Allen Stivanson Christian || Software engineer || https://www.linkedin.com/in/allen-christian-708545409/ 
